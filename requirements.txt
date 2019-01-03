@@ -1,0 +1,4 @@
+Flask
+future
+requests
+gunicorn
